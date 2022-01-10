@@ -726,22 +726,22 @@ font-family: 'Raleway', sans-serif;
   color: #9013fe;
 }
 
-#code_info {
+.code_info {
   text-align: center;
   font-weight: bold;
   font-size: 20px;
   text-decoration: underline #9013fe;
 }
 
-#repo_github {
+#repo {
   text-align: center;
- top: 20px;
+  border-radius: 50%;
   font-size: 60px;
   color: #000000;
   transition: 0.5s;
 }
 
-#repo_github:hover {
+#repo:hover {
   animation: bounce 1s;
 }
 
