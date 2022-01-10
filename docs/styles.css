@@ -733,7 +733,7 @@ font-family: 'Raleway', sans-serif;
   text-decoration: underline #9013fe;
 }
 
-.repo {
+.repo_github {
   text-align: center;
  top: 20px;
   font-size: 60px;
@@ -741,7 +741,7 @@ font-family: 'Raleway', sans-serif;
   transition: 0.5s;
 }
 
-.repo:hover {
+.repo_github:hover {
   animation: bounce 1s;
 }
 
