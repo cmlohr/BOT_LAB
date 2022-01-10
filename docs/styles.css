@@ -726,14 +726,14 @@ font-family: 'Raleway', sans-serif;
   color: #9013fe;
 }
 
-.code_info {
+#code_info {
   text-align: center;
   font-weight: bold;
   font-size: 20px;
   text-decoration: underline #9013fe;
 }
 
-.repo_github {
+#repo_github {
   text-align: center;
  top: 20px;
   font-size: 60px;
@@ -741,7 +741,7 @@ font-family: 'Raleway', sans-serif;
   transition: 0.5s;
 }
 
-.repo_github:hover {
+#repo_github:hover {
   animation: bounce 1s;
 }
 
